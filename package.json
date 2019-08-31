@@ -1,0 +1,12 @@
+{
+    "id": "wallabag",
+    "name": "Wallabag",
+    "version": "1.0.0",
+    "description": "Wallabag",
+    "main": "index.js",
+    "author": "kontakt@janstieler.de",
+    "license": "MIT",
+    "config": {
+        "hasCustomUrl": true
+    }
+}
