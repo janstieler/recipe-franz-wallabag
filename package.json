@@ -1,11 +1,12 @@
 {
-    "id": "wallabag",
-    "name": "Wallabag",
+    "name": "Wallabag Franz",
     "version": "1.0.0",
-    "description": "Wallabag",
+    "description": "Franz 5 Wallabag Plugin",
     "main": "index.js",
-    "author": "kontakt@janstieler.de",
+    "author": "Jan-Frederik Stieler <kontakt@janstieler.de>",
     "license": "MIT",
+    "id": "wallabag",
+    "repository": "https://github.com/janstieler/recipe-franz-wallabag",
     "config": {
         "hasCustomUrl": true
     }
