@@ -1,6 +1,9 @@
 # recipe-franz-wallabag
 Repository to add our own Wallabag server to Franz.
 
+[Wallabag](https://www.wallabag.org/en)
+[Franz](https://meetfranz.com/de/)
+
 ## Development & Installation
 
 If you want your dev version of plugin show up in Franz:
